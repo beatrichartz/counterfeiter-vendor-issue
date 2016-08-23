@@ -1,0 +1,6 @@
+hash: 301b6fac14b6b69bf3ec39de8224b06ef114e8ef73b237214532008a15ff3998
+updated: 2016-08-23T16:52:56.412746142+01:00
+imports:
+- name: github.com/ory-am/fosite
+  version: 76ef7ea8f51735d63476cd91e1f9a9f367d544cb
+testImports: []

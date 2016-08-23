@@ -1,0 +1,4 @@
+package: github.com/beatrichartz/counterfeiter-vendor-issue
+import:
+- package: github.com/ory-am/fosite
+  version: ^0.3.0
